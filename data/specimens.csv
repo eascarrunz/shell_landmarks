@@ -1,0 +1,177 @@
+institution,collection,series,specimen,code,label_name,name,abnormal_side,maturity,sex,collector,identified_by,datum,continent,country,state_province,county_district,city,specific_locality,collection_mode,dec_lat,dec_long,date,previous_identifications,label_comments,comments,X,X.1,X.2,X.3,species
+YPM,HER,R,17221,YPMHERR17221,Leucocephalon yuwonoi,Leucocephalon yuwonoi,NA,adult,,,Walter G. Joyce,,,,,,,,captive,NA,NA,,NA,,,,,,,Leucocephalon yuwonoi
+YPM,HER,R,12109,YPMHERR12109,Leucocephalon yuwonoi,Leucocephalon yuwonoi,NA,adult,f,,Walter G. Joyce,,,,,,,,,NA,NA,Nov-01,NA,,,,,,,Leucocephalon yuwonoi
+YPM,HER,R,17231,YPMHERR17231,Leucocephalon yuwonoi,Leucocephalon yuwonoi,NA,adult,,,Walter G. Joyce,,,,,,,,captive,NA,NA,,NA,,,,,,,Leucocephalon yuwonoi
+YPM,HER,R,10930,YPMHERR10930,Melanochelys trijuga,Melanochelys trijuga,NA,adult,,J. W. Scollick,,,Asia,India,,,,,,NA,NA,,NA,,,,,,,Melanochelys trijuga
+YPM,HER,R,14678,YPMHERR14678,Notochelys platynota,Notochelys platynota,NA,adult,f,,,,,,,,,,captive,NA,NA,,NA,,,,,,,Notochelys platynota
+YPM,HER,R,17205,YPMHERR17205,Siebenrockiella crassicollis,Siebenrockiella crassicollis,NA,adult,,,Walter G. Joyce,,,,,,,,captive,NA,NA,,NA,,,,,,,Siebenrockiella crassicollis
+YPM,HER,R,17195,YPMHERR17195,Siebenrockiella crassicollis,Siebenrockiella crassicollis,NA,adult,,,Walter G. Joyce,,,,,,,,captive,NA,NA,,NA,,,,,,,Siebenrockiella crassicollis
+YPM,HER,R,17252,YPMHERR17252,Geoemyda spengleri,Geoemyda spengleri,NA,adult,,,,,,,,,,,captive,NA,NA,,NA,,,,,,,Geoemyda spengleri
+YPM,HER,R,17244,YPMHERR17244,Cuora galbinifrons picturata,Cuora picturata,NA,adult,,,,,,,,,,,captive,NA,NA,,NA,,,,,,,Cuora picturata
+YPM,HER,R,12105,YPMHERR12105,Cuora galbinifrons,Cuora sp,NA,adult,,,,,,,,,,,captive,NA,NA,Nov-01,NA,,,,,,,Cuora sp
+YPM,HER,R,17230,YPMHERR17230,Cuora galbinifrons,Cuora sp,NA,adult,,,Walter G. Joyce,,,,,,,,captive,NA,NA,,NA,,,,,,,Cuora sp
+YPM,HER,R,12106,YPMHERR12106,Cuora galbinifrons,Cuora sp,NA,adult,,,,,,,,,,,captive,NA,NA,Nov-01,NA,,,,,,,Cuora sp
+YPM,HER,R,12175,YPMHERR12175,Notochelys platynota,Notochelys platynota,NA,juvenile,,,,,,,,,,,captive,NA,NA,,NA,,,,,,,Notochelys platynota
+YPM,HER,R,13956,YPMHERR13956,Geochelone pardalis,Stigmochelys pardalis,NA,adult,,,,,,,,,,,,NA,NA,,NA,,,,,,,Stigmochelys pardalis
+YPM,HER,R,19103,YPMHERR19103,Gopherus agassizii,Gopherus agassizii,NA,adult,,,Gregory J. Watkins-Colwell,,,,,,,,,NA,NA,,NA,,,,,,,Gopherus agassizii
+MCZ,Herpetology,R_,29498,MCZR29498,Siebenrockiella crassicollis,Siebenrockiella crassicollis,NA,adult,,Malcolm A. Smith,Catalog,,Asia,Thailand,Phetchabun,,,"Bangkok,Siam",,NA,NA,[no verbatim date data],NA,,,,,,,Siebenrockiella crassicollis
+MCZ,Herpetology,R_,1863,MCZR1863,Malaclemys terrapin terrapin,Malaclemys terrapin terrapin,NA,adult,,Spencer F. Baird,Catalog,WGS84,North America,United States,District of Columbia,,,"Washington, D. C.",,38.8951,-77.0364,[no verbatim date data],NA,,,,,,,Malaclemys terrapin
+MCZ,Herpetology,R_,182819,MCZR182819,Malaclemys terrapin terrapin,Malaclemys terrapin terrapin,NA,adult,,Jos_ Rosado,Catalog,WGS84,North America,United States,New Jersey,Cape May,,Stone Harbor,,39.0508,-74.7583,1991-1991,NA,,,,,,,Malaclemys terrapin
+MCZ,Herpetology,R_,182817,MCZR182817,Malaclemys terrapin terrapin,Malaclemys terrapin terrapin,NA,juvenile,,Jos_ Rosado,Catalog,WGS84,North America,United States,New Jersey,Cape May,,Stone Harbor,,39.0508,-74.7583,1991-1991,NA,,,,,,,Malaclemys terrapin
+MCZ,Herpetology,R_,15887,MCZR15887,Deirochelys reticularia reticularia,Deirochelys reticularia reticularia,NA,adult,,"Thomas Barbour, Robert P. Barbour",Catalog,WGS84,North America,United States,Florida,,,Colohatchee River,,26.7136,-81.5667,1919-1919,NA,,,,,,,Deirochelys reticularia
+MCZ,Herpetology,R_,46258,MCZR46258,Graptemys barbouri,Graptemys barbouri,NA,adult,male ,Archie F. Carr Jr.,"Archie Fairly Carr, L. J. Marchand",WGS84,North America,United States,Florida,Calhoun,,10miles N. of Marianna to Clarksville,,30.56427,-85.18344,27/11/1941-30/11/1941,NA,,,,,,,Graptemys barbouri
+MCZ,Herpetology,R_,6397,MCZR6397,Graptemys geographica,Graptemys geographica,NA,adult,,H. Garman,Catalog,NAD27,North America,United States,Illinois,Adams,,Quincy,,39.9359546,-91.3868483,1888-1888,NA,,,,,,,Graptemys geographica
+MCZ,Herpetology,R_,29543,MCZR29543,Heosemys annandalii,Heosemys annandalii,NA,adult,,Malcolm A. Smith,H. Bradley Shaffer,,Asia,Thailand,Phetchabun,,,Bangkok temple,,NA,NA,[no verbatim date data],NA,,,,,,,Heosemys annandalii
+MCZ,Herpetology,R_,46278,MCZR46278,Graptemys barbouri,Graptemys barbouri,NA,adult,,Archie F. Carr Jr.,"Archie Fairly Carr, L. J. Marchand",WGS84,North America,United States,Florida,Jackson,,near Marianna,,30.7751,-85.2273,27/11/1941-30/11/1941,NA,,,,,,,Graptemys barbouri
+MCZ,Herpetology,R_,46253,MCZR46253,Graptemys barbouri,Graptemys barbouri,NA,adult,,Archie F. Carr Jr.,"Archie Fairly Carr, L. J. Marchand",WGS84,North America,United States,Florida,Calhoun,,10 mi N. of Marianna to Clarksville,,30.56427,-85.18344,27/11/1941-30/11/1941,NA,,incorrectly stored as 46252 in the original tps files,,,,,Graptemys barbouri
+MCZ,Herpetology,R_,166446,MCZR166446,Glyptemys insculpta,Glyptemys insculpta,NA,adult,male ,[no agent data],systematic card,WGS84,North America,United States,Maine,York,,West Kennebunk,,43.4086,-70.5819,[no verbatim date data],NA,,,,,,,Glyptemys insculpta
+MCZ,Herpetology,R_,182816,MCZR182816,Malaclemys terrapin terrapin,Malaclemys terrapin terrapin,NA,adult,,Jos_ Rosado,Catalog,WGS84,North America,United States,New Jersey,Cape May,,Stone Harbor,,39.0508,-74.7583,1991-1991,NA,,,,,,,Malaclemys terrapin
+MCZ,Herpetology,R_,182840,MCZR182840,Malaclemys terrapin terrapin,Malaclemys terrapin terrapin,NA,juvenile,,Jos_ Rosado,Catalog,WGS84,North America,United States,New Jersey,Cape May,,Stone Harbor,,39.0508,-74.7583,1991-1991,NA,,,,,,,Malaclemys terrapin
+MCZ,Herpetology,R_,1870,MCZR1870,Malaclemys terrapin terrapin,Malaclemys terrapin terrapin,NA,adult,,Spencer F. Baird,Catalog,WGS84,North America,United States,District of Columbia,,,Washington DC,,38.8951,-77.0364,[no verbatim date data],NA,,,,,,,Malaclemys terrapin
+MCZ,Herpetology,R_,29550,MCZR29550,Heosemys annandalii,Heosemys annandalii,NA,adult,,Malcolm A. Smith,H. Bradley Shaffer,,Asia,Thailand,,,,"Kampong, Sumbon",,NA,NA,[no verbatim date data],NA,,,,,,,Heosemys annandalii
+MCZ,Herpetology,R_,182835,MCZR182835,Pangshura smithii,Pangshura smithii,NA,adult,,[no agent data],H. Bradley Shaffer,,Asia,India,,,,Bengal,,NA,NA,[no verbatim date data],NA,,,,,,,Pangshura smithii
+MCZ,Herpetology,R_,1874,MCZR1874,Glyptemys muhlenbergii,Glyptemys muhlenbergii,NA,juvenile,,[no agent data],systematic card,,North America,United States,New Jersey,,,no specific locality,,NA,NA,[no verbatim date data],NA,,,,,,,Glyptemys muhlenbergii
+CRI,PCHP,,5071,PCHP5071,,Cuora mccordi,NA,adult,,,,,,,,,,,,NA,NA,,NA,,peripherals 11L 10R,,,,,Cuora mccordi
+CRI,PCHP,,3926,PCHP3926,,Cuora mccordi,NA,adult,,"William McCord, O. Shiu",,,Asia,China,Guangxi,,,West of Paise,,NA,NA,1992,NA,"China: Yunnani: West of Paise (Guangxi Province). W.McCord/O. Shiu, 1992",,,,,,Cuora mccordi
+CRI,PCHP,,6190,PCHP6190,,Mauremys sinensis,NA,adult,,William McCord,,,Asia,China,Hainan,,,,,NA,NA,1999,NA,Hainan W.McCord 1999,,,,,,Mauremys sinensis
+CRI,PCHP,,12207,PCHP12207,,Geoemyda spengleri,NA,adult,f,T. Walsh,,,,,,,,,,NA,NA,2006,NA,T. Walsh 2006, adult female,,,,,Geoemyda spengleri
+CRI,PCHP,,2958,PCHP2958,,Notochelys platynota,NA,adult,,William McCord,,,no data,no data,no data,no data,no data,,,NA,NA,1986,NA,No data. (W. McCord 1986),6 vertebrals, 4 and 5 digitised as 4,,,,Notochelys platynota
+CRI,PCHP,,4710,PCHP4710,,Heosemys grandis,NA,subadult,,D. Uhrig,,,no data,no data,no data,no data,no data,,,NA,NA,1996,NA,No data. D. Uhrig, 1996. Subad.,,,,,Heosemys grandis
+CRI,PCHP,,3186,PCHP3186,,Mauremys sinensis,NA,adult,,D. Uhrig,,,no data,no data,no data,no data,no data,,,NA,NA,1991,NA,"No data (Ex. D. Uhrig, 1991)",,,,,,Mauremys sinensis
+CRI,PCHP,,3952,PCHP3952,,Cyclemys oldhamii,NA,adult,,William McCord,,,no data,no data,no data,no data,no data,,,NA,NA,1992,NA,"strikeover ""dentata""; Ad. No data. (W. McCord 1992)","Marginals 8, 9 L partially covered by scutes; landmark 78 interpolated from ventral side. Old specimen; plastron too damaged for digitisation.",,,,,Cyclemys oldhamii
+CRI,PCHP,,11927,PCHP11927,,Cyclemys dentata,NA,adult,m,,,,no data,no data,no data,no data,no data,,,NA,NA,2006,NA,Ad. Male, no data 2006,,,,,Cyclemys dentata
+CRI,PCHP,,6139,PCHP6139,,Cyclemys oldhamii,NA,adult,,William McCord,,,no data,no data,no data,no data,no data,,,NA,NA,,NA,W. McCord, No data,,,,,Cyclemys oldhamii
+CRI,PCHP,,6148,PCHP6148,,Mauremys reevesii,NA,adult,,William McCord,,,,,,,,,,NA,NA,1991,NA,W. McCord 1991,,,,,,Mauremys reevesii
+CRI,PCHP,,7607,PCHP7607,,Mauremys reevesii,NA,adult,f,A. Weinberg,,,Asia,China,Jiangsu,,Nanyang,,,NA,NA,2003,NA,"Ad. Female, China: Jiangsu Prov.: Nanjang; Don. A. Weinberg 2003",,,,,,Mauremys reevesii
+CRI,PCHP,,4625,PCHP4625,,Mauremys reevesii,NA,adult,,"O. Shiu, W. McCord",,,Asia,China,Nanning,,,,,NA,NA,1996,NA,Ad. China: Nanning, O. Shiu/W. McCord 1996,Carapace and plastron separated,,,,Mauremys reevesii
+CRI,PCHP,,12188,PCHP12188,,Mauremys nigricans,NA,adult,f,T. Walsh,,,,,,,,,,NA,NA,2006,NA,Ad female, no data, T. Walsh 2006,Posterior part of the bridge is detatched,,,Mauremys nigricans
+CRI,PCHP,,11189,PCHP11189,,Mauremys nigricans,NA,adult,f,William McCord,,,no data,no data,no data,no data,no data,,,NA,NA,2006,NA,Ad female, No data, W. McCord 2006,,,,Mauremys nigricans
+CRI,PCHP,,8372,PCHP8372,,Mauremys nigricans,NA,adult,f,William McCord,,,Asia,China,,,,,,NA,NA,2005,NA,Ad female, China: no data, McCord 2005,,,,Mauremys nigricans
+CRI,PCHP,,4071,PCHP4071,,Mauremys annamensis,NA,adult,m,William McCord,,,Asia,Vietnam,,,Hanoi,market,,NA,NA,1993,NA,Ad male, Vietnam: Hanoi (mkt). W. McCord 1993,,,,,Mauremys annamensis
+CRI,PCHP,,11217,PCHP11217,,Cuora amboinensis,NA,juvenile,,,,,no data,no data,no data,no data,no data,,,NA,NA,2006,NA,Juv, No data,2006,,,,Cuora amboinensis
+CRI,PCHP,,3993,PCHP3993,,Cuora aurocapitata,NA,adult,,William McCord,,,Asia,China,Anhui,Nanling,,,,NA,NA,1993,NA,Ad. China: Anhui (Nanling Co.). Ex. W. McCord 1993,Scutes on plastron,,,,,Cuora aurocapitata
+CRI,PCHP,,4220,PCHP4220,,Cuora aurocapitata,NA,adult,f,"O. Shiu, W. McCord",,,Asia,China,Anhui,Nanling,,,,NA,NA,Jul-94,NA,Ad. Female. China: Anhui Nanling Co. O.Shiu/W. McCord. Jul 1994,,,,,,Cuora aurocapitata
+CRI,PCHP,,4217,PCHP4217,,Cuora mccordi,NA,adult,,"O. Shiu, W. McCord",,,Asia,China,Guanxi,,,,,NA,NA,1994,NA,"Cihna: Yunnan: nr. Paise (Guanxi). O. Shiu/W. McCord, 1994.",,,,,,Cuora mccordi
+CRI,PCHP,,3925,PCHP3925,,Cuora pani,NA,adult,,"William McCord, O. Shiu",,,Asia,China,Yunnan,,,Tahau Shan or Chin, Ping,NA,NA,,1992,,"China: Yunnan : Ta hau Shan or Chin; Ping; W. McCord/O. Shiu, 1992",pleurals 3L 4R,,,,Cuora pani
+CRI,PCHP,,4193,PCHP4193,,Cuora zhoui,NA,adult,m,"O. Shiu, W. McCord",,,Asia,China,Yunnan,Wuting or Yuanmow,,,,NA,NA,Jul-94,NA,Ad. Male. China: Yunnan: Wuting or Yuanmow. O. Shiu/W. McCord. Jul. 1994,many sutures too worn off to digitise,,,,,Cuora zhoui
+CRI,PCHP,,3460,PCHP3460,,Cuora amboinensis,NA,adult,m,William McCord,,,Asia,Indonesia,Java,,,,,NA,NA,1991,NA,"Ad. Male. Indonesia: Java. Ex. W. McCord, 1991",,,,,,Cuora amboinensis
+CRI,PCHP,,5078,PCHP5078,,Cuora amboinensis couro,NA,adult,,,,,,,,,,,,NA,NA,,NA,,"""casero""?",,,,,Cuora amboinensis
+CRI,PCHP,,5473,PCHP5473,,Cuora flavomarginata,NA,adult,,,,,,,,,,,,NA,NA,,NA,No data,,,,,,Cuora flavomarginata
+CRI,PCHP,,3818,PCHP3818,,Cuora flavomarginata,NA,adult,f,,,,no data,no data,no data,no data,no data,,,NA,NA,,NA,Ad.? Female, No data,,,,,Cuora flavomarginata
+CRI,PCHP,,3242,PCHP3242,,Cuora galbinifrons,NA,adult,,William McCord,,,no data,no data,no data,no data,no data,,,NA,NA,1991,NA,"No data. (W. McCord, 1991)",,,,,,Cuora galbinifrons
+CRI,PCHP,,12211,PCHP12211,,Cuora picturata,NA,juvenile,,T. Walsh,,,no data,no data,no data,no data,no data,,,NA,NA,2006,NA,Juv, no data, T. Walsh 2006,,,,Cuora picturata
+CRI,PCHP,,1176,PCHP1176,,Graptemys geographica,NA,adult,f,M. Bennet,,,North America,USA,Michigan,,,,,NA,NA,,NA,Ad. Female. Michigan (M. Bennett),,,,,,Graptemys geographica
+CRI,PCHP,,7718,PCHP7718,,Graptemys versa,NA,adult,f,,,,no data,no data,no data,no data,no data,,,NA,NA,,NA,Adult female, No data,,,,,Graptemys versa
+CRI,PCHP,,11909,PCHP11909,,Graptemys nigrinoda,NA,adult,f,T. Walsh,,,North America,USA,,,,,,NA,NA,2006,NA,Ad. Female, USA: No data, T. Walsh 2006,,,,Graptemys nigrinoda
+CRI,PCHP,,7598,PCHP7598,,Geoclemys hamiltonii,NA,subadult,,W. Hill,,,Asia,Bangladesh,,,,,Captive hatched,NA,NA,2002,NA,"Subadult.. Bangladesh. Captive hatched. Don. W. Hill, 2002",,,,,,Geoclemys hamiltonii
+CRI,PCHP,,4063,PCHP4063,,Hardella thurjii,NA,subadult,f,William McCord,,,Asia,Bangladesh,,,Dacca,,market,NA,NA,1993,NA,"Subad. Female. Bangladesh: Dacca mkt. W. McCord, 1993.",,,,,,Hardella thurjii
+CRI,PCHP,,2730,PCHP2730,,Hardella thurjii,NA,adult,,William McCord,,,Asia,Bangladesh,,,Dacca,,,NA,NA,,NA,Bangladesh. Dacca. Ad. Male. Ex. W. McCord,"Eroded sulcus of landmarks 151 and 152, approximate digitisation.",,,,,Hardella thurjii
+CRI,PCHP,,3221,PCHP3221,,Hardella thurjii,NA,adult,m,William McCord,,,Asia,Bangladesh,,,Dacca,,market,NA,NA,1991,NA,"Ad. Male. Bangladesh: Dacca Mrt. W. McCord, 1991",,,,,,Hardella thurjii
+CRI,PCHP,,5467,PCHP5467,,Heosemys spinosa,NA,adult,m,,,,no data,no data,no data,no data,no data,,,NA,NA,,NA,Ad male, No data,,,,,Heosemys spinosa
+CRI,PCHP,,5402,PCHP5402,,Heosemys spinosa,NA,adult,,William McCord,,,,,,,,,,NA,NA,1998,NA,Ad, McCord 1998,Erased sutures,,,,Heosemys spinosa
+CRI,PCHP,,67,PCHP67,,Heosemys spinosa,NA,adult,,,,,,,,,,,,NA,NA,,NA,No data,No plastral concavity: female,,,,,Heosemys spinosa
+CRI,PCHP,,7570,PCHP7570,,Heosemys depressa,NA,adult,m,William McCord,,,Asia,Burma,Arakan,,,,,NA,NA,2003,NA,Burma: Akaran, Ad. Male, Don. W. McCord 2003,,,,Heosemys depressa
+CRI,PCHP,,7543,PCHP7543,,Heosemys grandis,NA,adult,m,A. Weinburg,,,,,,,,"Hong Kong, possibly Malaysian origin",confiscation,NA,NA,2002,NA,Adult male, Malaysia?: Hong-Kong confiscation, Ex. A. Weinburg: 2002,,,,Heosemys grandis
+CRI,PCHP,,2371,PCHP2371,,Pangshura tecta,NA,adult,f,William McCord,,,Asia,Pakistan,,,,,,NA,NA,1986,NA,Ad. Female (9 eggs). Pakistan, W. McCord 1986,,,,,Pangshura tecta
+CRI,PCHP,,2624,PCHP2624,,Morenia petersi,NA,adult,,William McCord,,,Asia,Bangladesh,,,Dhaka,near the city,,NA,NA,1987,NA,"Bangladesh: nr. Dhaka. Ex. W. McCord, 1987",costals 8 not in contact with each other,,,,,Morenia petersi
+CRI,PCHP,,2953,PCHP2953,,Morenia petersi,NA,adult,,William McCord,,,Asia,bangladesh,,,Dhaka,,market,NA,NA,1988,NA,Bangladesh, Dhaka Mk McCord 88,costals 8 in contact with each other. This condition is more common.,,,,Morenia petersi
+CRI,PCHP,,4160,PCHP4160,,Morenia ocellata,NA,adult,f,,,,Asia,China,Yunnan,,Kum-ming,"Near Ruili market, Bao Skam province",market,NA,NA,,NA,Ad. Female, China: Yunnan: Kum-ming mkt. Nr. Ruili mkt. Bao Skam prov.,,,,,Morenia ocellata
+CRI,PCHP,,3442,PCHP3442,,Malayemys subtrijuga,NA,adult,f,WIlliam McCord,,,Asia,Vietnam,,,Hanoi,,market,NA,NA,1991,NA,Ad female, Vietnam, Hanoi market, McCord 1991,,,Malayemys subtrijuga
+CRI,PCHP,,11959,PCHP11959,,Malaclemys terrapin terrapin,NA,adult,f,B. Atkinson,,,North America,USA,New Jersey,Cape May,Steve Harbour,,,NA,NA,2006,NA,Ad female, USA: NJ, Cape May Co.,: Stene Harbour, Steve Harbour olvd. B. Atkinson 2006,"Malaclemys, not Malayemys!",Malaclemys terrapin
+CRI,PCHP,,3446,PCHP3446,,Malayemys subtrijuga,NA,adult,f,,,,Asia,Vietnam,,,Hanoi,,market,NA,NA,,NA,Ad female Vietnam: Hanoi Mk,,,,,,Malayemys subtrijuga
+CRI,PCHP,,5376,PCHP5376,,Mauremys japonica,NA,adult,,,,,no data,no data,no data,no data,no data,no data,no data,NA,NA,,NA,Ad. No data.,,,,,,Mauremys japonica
+CRI,PCHP,,4628,PCHP4628,,Mauremys iversoni,NA,adult,,William McCord,,,Asia,China,,,Fuchow,,,NA,NA,1996,NA,"Ad. China: Fuchow; W. McCord, May 1996",,,,,,Mauremys iversoni
+CRI,PCHP,,3279,PCHP3279,,Mauremys iversoni,NA,adult,m,,,,Asia,China,Fujian,,Nanping,,,NA,NA,,NA,Ad male China: Fujian, Nanping Kaenyang,,,,,Mauremys iversoni
+CRI,PCHP,,6068,PCHP6068,,Mauremys caspica,NA,adult,,,,,no data,no data,no data,no data,no data,no data,no data,NA,NA,,NA,No data,,,,,,Mauremys caspica
+CRI,PCHP,,11117,PCHP11117,,Mauremys rivulata,NA,adult,m,Peter C. H. Pritchard,,,Europe,Greece,Crete,,Iraklion,west of Iraklion,,35.33641,25.05512,2006,NA,Ad. Male, Greece: Crete: West of Iraklion, PCHP: 2006, N 35_ 33641 E 25_ 05512,,,Mauremys rivulata
+CRI,PCHP,,2956,PCHP2956,,Mauremys sp,NA,adult,,William McCord,,,Asia,Turkey,,,,,,NA,NA,1989,NA,"Turkey. W. McCord, 1989",caspica or rivulata? Both are present in Turkey,,,,,Mauremys sp
+CRI,PCHP,,4738,PCHP4738,,Mauremys leprosa,NA,adult,,William McCord,,,,,,,,,,NA,NA,1996,NA,"No data (W. McCord, 1996)",,,,,,Mauremys leprosa
+CRI,PCHP,,7435,PCHP7435,,Mauremys japonica,NA,adult,f,Y. Kosuge,,,Asia,Japan,Chiba,,Kimitsu,Egawa River,,NA,NA,1998,NA,Ad. Female. Japan: Chiba Pref.: Kimitsu City: Egawa River, Coll: Y. Kosuge 1998,,,,,Mauremys japonica
+CRI,PCHP,,4944,PCHP4944,,Melanochelys trijuga indopeninsularis,NA,adult,f,William McCord,,,Asia,Burma,,,,,,NA,NA,1997,NA,Ad female Burma McCord 1997,Burma = Myanmar,,,,,Melanochelys trijuga
+CRI,PCHP,,3330,PCHP3330,,Melanochelys trijuga thermalis,NA,adult,,M. Bennetti,,,,,,,,,,NA,NA,1990,NA,"No data (ex. M. Bennetti, died 1990)",,,,,,Melanochelys trijuga
+CRI,PCHP,,7996,PCHP7996,,Malaclemys terrapin centrata,NA,adult,f,G. Heinrich,,,North America,USA,Florida,Duval,,"Sawpit Island, Highway A1A",,NA,NA,May-00,NA,"USA, FL, Duval Co., Sawpit Is., Hwy A1A; May 2000, G. Heinrich; Adult female",,,,,,Malaclemys terrapin
+CRI,PCHP,,4073,PCHP4073,,Mauremys nigricans,NA,adult,f,William McCord,,,Asia,China,Guandong,,,Chan K'ang,,NA,NA,1993,NA,Ad. Female, W. McCord 1993, China_ Guandong: Chan K��_ang,,,,Mauremys nigricans
+CRI,PCHP,,7715,PCHP7715,,Orlitia borneensis,NA,adult,,William McCord,,,,,,,,,,NA,NA,,NA,Adult, W. McCord,Very asymmetric,,,,Orlitia borneensis
+CRI,PCHP,,3826,PCHP3826,,Rhinoclemmys diademata,NA,adult,m,,,,South America,Venezuela,Zulia,,,,,NA,NA,,NA,Ad. Male. Venezuela: Zulia (No precise data).,,,,,,Rhinoclemmys diademata
+CRI,PCHP,,1339,PCHP1339,,Rhinoclemmys diademata,NA,adult,f,,,,South America,Venezuela,Zulia,,,,,NA,NA,Dec-78,NA,"Ad. Female. Venezuela: Zulia (ex Maracaibo, Dec. '78).",,,,,,Rhinoclemmys diademata
+CRI,PCHP,,7597,PCHP7597,,Rhinoclemmys pulcherrima manni,NA,adult,f,D. Uhrig,,,,,,,,,,NA,NA,2003,NA,"Ad female; No precise data; Don. D. Uhrig, 2003.",,,,,,Rhinoclemmys pulcherrima
+CRI,PCHP,,11899,PCHP11899,,Rhinoclemmys pulcherrima manni,NA,adult,f,,,,Central America,Costa Rica,,,,,,NA,NA,2006,NA,Ad female, Costa Rica,2006,,,,Rhinoclemmys pulcherrima
+CRI,PCHP,,2871,PCHP2871,,Rhinoclemmys punctularia,NA,adult,,K. Herzog,,,South America,Guyana,,,,,,NA,NA,1988,NA,"Guyana (K. Herzog, 1988).",,,,,,Rhinoclemmys punctularia
+CRI,PCHP,,3706,PCHP3706,,Rhinoclemmys punctularia,NA,adult,f,,,,,,,,,,,NA,NA,,NA,Ad. Female, No data,,,,,Rhinoclemmys punctularia
+CRI,PCHP,,348,PCHP348,,Rhinoclemmys funerea,NA,adult,f,D. Ehrenfeld,,,Central America,Costa Rica,Limon,,,Tortuguero,,NA,NA,1971,NA,"Ad. Female. Costa Rica: Limon Prov: Tortuguero. Coll D. Ehrenfeld, 1966. Additional note: ""Rhinoclemmys funerea; near mouth of Rio Tortuguero; Limon Prov, Costa Rica. Coll. D. Ehrenfeld, summer 1966. Died 1971","Abnormality: Presence of a right ""prepleural"" of about 1/3 the size of the first right pleural. Presence of a smaller left ""prepleural"" of about one fifth the size of the right prepleural.",,,,,Rhinoclemmys funerea
+CRI,PCHP,,7699,PCHP7699,,Rhinoclemmys funerea,NA,adult,f,A. Weinburg,,,Central America,Nicaragua,,,,,,NA,NA,2004,NA,"Adult female; Nicaragua; A. Weinburg, 2004",Cervical absent,,,,,Rhinoclemmys funerea
+CRI,PCHP,,2961,PCHP2961,,Rhinoclemmys funerea,NA,adult,m,J. Allen,,,Central America,Costa Rica,,,,,,NA,NA,1990,NA,"Costa Rica. (W. Allen, 1990). Ad. Male.",Plastral concavity, Fifth vertebral might be abnormally elongate,,,,Rhinoclemmys funerea
+CRI,PCHP,,2441,PCHP2441,,Rhinoclemmys melanosterna,NA,adult,,J. Friedman,,,,,,,,,captive-hatched,NA,NA,,NA,Captive-hatched. (J. Friedman). Caribbean type.,8 vertebrals,,,,,Rhinoclemmys melanosterna
+CRI,PCHP,,2438,PCHP2438,,Rhinoclemmys melanosterna,NA,adult,,,,,South America,Ecuador,Esmeraldas,,Borbon,,,NA,NA,Mar-87,NA,"Ecuador: Borb��_n, Prov. Esmeraldas.Mch. '87",,,,,,Rhinoclemmys melanosterna
+CRI,PCHP,,2440,PCHP2440,,Rhinoclemmys melanosterna,NA,adult,,,,,South America,Ecuador,Esmeraldas,,Borbon,,,NA,NA,Apr-87,NA,"Ecuador: Borb��_n, Prov. Esmeraldas.Mch. '87",,,,,,Rhinoclemmys melanosterna
+CRI,PCHP,,4198,PCHP4198,,Rhinoclemmys melanosterna,NA,subadult,,William McCord,,,,,,,,,captive-raised,NA,NA,1994,NA,Subad. Captive raised (R. Wicker). W. McCord '94,"Carapace and plastron separated, but fit well and were put together for digitisation.",,,,,Rhinoclemmys melanosterna
+CRI,PCHP,,2962,PCHP2962,,Rhinoclemmys annulata,NA,adult,m,William McCord,,,South America,Ecuador,,,,,,NA,NA,1990,NA,"Ad. Male. Ecuador. (ex. W. McCord, 1990).",Shallow plastral concavity,,,,,Rhinoclemmys annulata
+CRI,PCHP,,1222,PCHP1222,,Rhinoclemmys annulata,NA,adult,f,K. Nemuras,,,no data,no data,no data,no data,no data,no data,,NA,NA,,NA,No data. (ad. Female). Ex. K. Nemuras.,,,,,,Rhinoclemmys annulata
+CRI,PCHP,,2443,PCHP2443,,Rhinoclemmys nasuta,NA,adult,,,,,South America,Ecuador,Esmeraldas,,Borbon,,,NA,NA,Mar-87,NA,"Borb��_n, Prov. Esmeraldas, Mch. '87",,,,,,Rhinoclemmys nasuta
+CRI,PCHP,,2442,PCHP2442,,Rhinoclemmys nasuta,NA,adult,,,,,South America,Ecuador,Esmeraldas,,Borbon,,,NA,NA,Mar-88,NA,"Ecuador: Borb��_n, Prov. Esmeraldas, Mch. '88",,,,,,Rhinoclemmys nasuta
+CRI,PCHP,,2963,PCHP2963,,Rhinoclemmys areolata,NA,adult,m,J. Widows,,,Central America,Belize,,,Placencia,,,NA,NA,1990,NA,"Ad. Male. Belize: Placencia. (J. Widows, 1990)",,,,,,Rhinoclemmys areolata
+CRI,PCHP,,2775,PCHP2775,,Rhinoclemmys areolata,NA,adult,,R.Wicker / W. McCord,,,,,,,,,captive-hatched,NA,NA,1989,NA,"Ad. Captive hatched (R. Wicker / W. McCord, 1989)",,,,,,Rhinoclemmys areolata
+CRI,PCHP,,207,PCHP207,,Rhinoclemmys pulcherrima rogerbauri,NA,adult,,Bill Chase,,,North America,Mexico,,,,,,NA,NA,,NA,"No data. / On the plastron: ""MEXICO (EX. BILL CHASE)""",,,,,,Rhinoclemmys pulcherrima
+CRI,PCHP,,12202,PCHP12202,,Sacalia bealei,NA,adult,f,T. Walsh,,,no data,no data,no data,no data,no data,no data,,NA,NA,2006,NA,Ad. female, no data, T. Walsh 2006,,,,Sacalia bealei
+CRI,PCHP,,2619,PCHP2619,,Sacalia bealei,NA,adult,f,,,,no data,no data,no data,no data,no data,no data,pet farm,NA,NA,,NA,Ad. female. No data (pet farm).,,,,,,Sacalia bealei
+CRI,PCHP,,4656,PCHP4656,,Sacalia quadriocellata,NA,adult,f,William McCord,,,Asia,China,Hainan,,,,,NA,NA,Sep-96,NA,"Ad. female. China: Hainan?; W. McCord, Sept, 1996.",,,,,,Sacalia quadriocellata
+CRI,PCHP,,8428,PCHP8428,,Sacalia quadriocellata,NA,subadult,f,Tim Walsh,,,Asia,China,,,,,,NA,NA,2005,NA,"Sub-adult female; China, no data; Tim Walsh: CAT.2005",,,,,,Sacalia quadriocellata
+CRI,PCHP,,2509,PCHP2509,,Siebenrockiella crassicollis,NA,adult,,M. Bennett,,,no data,no data,no data,no data,no data,no data,,NA,NA,1987,NA,"No data (ex. M. Bennett, 1987)",,,,,,Siebenrockiella crassicollis
+CRI,PCHP,,2508,PCHP2508,,Siebenrockiella crassicollis,NA,adult,,M. Bennett,,,no data,no data,no data,no data,no data,no data,,NA,NA,1987,NA,"No data (ex. M. Bennett, 1987)",,,,,,Siebenrockiella crassicollis
+CRI,PCHP,,3392,PCHP3392,,Batagur borneoensis,NA,subadult,f,E. Moll,,,Asia,Malaysia,,,,,,NA,NA,,NA,Subad. female. Malaysia. Ex. E. Moll.,Extensive fenestration: anterior landmarks of the suprapygal were not available,,,,,Batagur borneoensis
+CRI,PCHP,,2936,PCHP2936,,Pangshura smithii smithii,NA,adult,,William McCord,,,Asia,Bangladesh,,,,,,NA,NA,1990,NA,"Bangladesh. W. McCord, 1990.",,,,,,Pangshura smithii
+CRI,PCHP,,2934,PCHP2934,,Pangshura smithii smithii,NA,adult,,William McCord,,,Asia,Bangladesh,,,,,,NA,NA,1990,NA,"Bangladesh. W. McCord, 1990.",,,,,,Pangshura smithii
+CRI,PCHP,,3457,PCHP3457,,Batagur dhongoka,NA,adult,m,,,,Asia,Bangladesh,,,Dhaka,,,NA,NA,,NA,Ad male, Bangladesh: Dhaka,Too worn to be digitised reliably,,,,Batagur dhongoka
+CRI,PCHP,,3458,PCHP3458,,Batagur dhongoka,NA,adult,m,,,,Asia,Bangladesh,,,Dhaka,,,NA,NA,,NA,Ad male, Bangladesh: Dhaka,,,,,Batagur dhongoka
+CRI,PCHP,,3944,PCHP3944,,Batagur dhongoka,NA,adult,m,William McCord,,,Asia,Bangladesh,,,Dhaka,,market,NA,NA,1992,NA,Ad. male. Bangladesh: Dakha mkt. W. McCord 1992,,,,,,Batagur dhongoka
+CRI,PCHP,,2941,PCHP2941,,Pangshura tentoria,NA,adult,f,William McCord,,,Asia,Bangladesh,,,Dhaka,,market,NA,NA,1990,NA,"Ad. female. Bangladesh: Dhaka mkt. W.McCord, 1990.",,,,,,Pangshura tentoria
+CRI,PCHP,,2940,PCHP2940,,Pangshura tentoria,NA,adult,f,William McCord,,,Asia,Bangladesh,,,Dhaka,,market,NA,NA,1990,NA,"Ad. female. Bangladesh. Dhaka mkt. W.McCord, 1990.",,,,,,Pangshura tentoria
+CRI,PCHP,,7542,PCHP7542,,Manouria emys phayrei,NA,subadult,,,,,no data,no data,no data,no data,no data,no data,,NA,NA,,NA,Subdadult. No data.,,,,,,Manouria emys
+CRI,PCHP,,6502,PCHP6502,,Batagur baska,NA,adult,m,William McCord,,,no data,no data,no data,no data,no data,no data,,NA,NA,2000,NA,Ad. male. No data. W. McCord 2000.,,,,,,Batagur baska
+CRI,PCHP,,3366,PCHP3366,,Orlitia borneensis,NA,adult,f,A. Wong / W. McCord,,,Asia,Malaysia,Penang,,,,,NA,NA,1991,NA,Ad. female. Malaysia: Penang (A. Wong / W. McCord). 1991.,,,,,,Orlitia borneensis
+CRI,PCHP,,3600,PCHP3600,,Gopherus polyphemus,NA,adult,m,,,,,,,,,,,NA,NA,,NA,Ad male No data,No apparent abnormalities,,,,,Gopherus polyphemus
+CRI,PCHP,,1086,PCHP1086,Ocadia sinensis,Mauremys sinensis,NA,adult,m,,,,,,,,,,,NA,NA,,NA,No data,,,,,,Mauremys sinensis
+FMNH,,,6736,FMNH6736,Chinemys reevesii,Mauremys reevesii,NA,adult,,J. W. Williams,,,Asia,China,Hunan,,Changsha,,,NA,NA, Aug 1920,NA,Cleaned shell without other skeleton.,,,,,,Mauremys reevesii
+FMNH,,,19714,FMNH19714,Mauremys caspica caspica,Mauremys caspica caspica,NA,adult,,"Henry Field (Dr), Richard A Martin",,,Asia,Iraq,,,,,,NA,NA,1934,NA,,,,,,,Mauremys caspica
+FMNH,,,22054,FMNH22054,Melanochelys trijuga,Geoemydidae sp unk,NA,adult,,J. W. Williams,,,Asia,,,,,Borneo,,NA,NA,,NA,Originally cataloged as Nicoria trijuga. M. trijuga does not occur on Borneo.,,,,,,Geoemydidae sp
+FMNH,,,63269,FMNH63269,Notochelys platynota,Notochelys platynota,NA,adult,,R. F. Inger,,,Asia,North Borneo,East Coast Residency, Kinabatangan Dist,,SE end of Dewhurst Bay,,5.533333333,118.5666667,24-May-50,NA,Stream in primary forest. ID by R Z 1950.,,,,,,Notochelys platynota
+FMNH,,,142680,FMNH142680,Notochelys platynota,Notochelys platynota,NA,adult,,K. Rohde,,,Asia,Malaya,,,Kuala Lumpur,,,NA,NA,20-May-64,NA,,,,,,,Notochelys platynota
+FMNH,,,224004,FMNH224004,Orlitia borneensis,Orlitia borneensis,NA,adult,,E. O. Moll,,,Asia,Malaysia,Pahang,,,Tasek Bera,,NA,NA,22-Oct-75,NA,,,,,,,Orlitia borneensis
+FMNH,,,224016,FMNH224016,Cuora amboinensis,Cuora amboinensis,NA,adult,,E. O. Moll,,,Asia,Malaysia,Perak,, Tapah Road Estate,6 mi Chenderong Balai,,NA,NA,22-Oct-75,NA,See FMNH 224113.,,,,,,Cuora amboinensis
+FMNH,,,224023,FMNH224023,Cuora amboinensis,Cuora amboinensis,NA,adult,,E. O. Moll,,,Asia,Malaysia,Pahang,,,Tasek Bera,,NA,NA,02-Dec-75,NA,Testis imbedded in paraffin. Gonads in separate jar.,,,,,,Cuora amboinensis
+FMNH,,,224039,FMNH224039,Heosemys grandis,Heosemys grandis,NA,adult,,E. O. Moll,,,Asia,Malaysia,Perak,,Batu Gajah,,pet shop,NA,NA,25-Mar-76,NA,,,,,,,Heosemys grandis
+FMNH,,,224040,FMNH224040,Heosemys grandis,Heosemys grandis,NA,adult,,E. O. Moll,,,Asia,Malaysia,Perak,,Batu Gajah,,pet shop,NA,NA,25-Nov-75,NA,,,,,,,Heosemys grandis
+FMNH,,,224049,FMNH224049,Notochelys platynota,Notochelys platynota,NA,adult,,E. O. Moll,,,Asia,Malaysia,Trengganu,,,"Sungei Pueh river,  5 km W Kuala Brang",,NA,NA,02-May-76,NA,S & P,,,,,,Notochelys platynota
+FMNH,,,224051,FMNH224051,Notochelys platynota,Notochelys platynota,NA,adult,,E. O. Moll,,,Asia,Malaysia,Pahang: Taman Negara,,,"Taman Negara national park, Kg. Tahan",,NA,NA,28-May-76,NA,,,,,,,Notochelys platynota
+FMNH,,,224052,FMNH224052,Notochelys platynota,Notochelys platynota,NA,juvenile,,E. O. Moll,,,Asia,Malaysia,Perak,Kinta,Batu Gajah,,market,NA,NA,20-Sep-75,NA,Im.,,,,,,Notochelys platynota
+FMNH,,,224059,FMNH224059,Siebenrockiella crassicollis,Siebenrockiella crassicollis,NA,adult,,E. O. Moll,,,Asia,Malaysia,Pahang,,,Tasek Bera,,NA,NA,22-Oct-75,NA,,,,,,,Siebenrockiella crassicollis
+FMNH,,,224061,FMNH224061,Siebenrockiella crassicollis,Siebenrockiella crassicollis,NA,adult,,E. O. Moll,,,Asia,Malaysia,Perak,,Batu Gajah,,pet shop,NA,NA,19-Nov-75,NA,Head & limbs in EtOH.,,,,,,Siebenrockiella crassicollis
+FMNH,,,224077,FMNH224077,Siebenrockiella crassicollis,Siebenrockiella crassicollis,NA,adult,,E. O. Moll,,,Asia,Malaysia,Trengganu,Besut,,"Sungei Kederang stream, 9 km W Penarik",,NA,NA,23-Jul-78,NA,S & P. Head & limbs in EtOH.,,,,,,Siebenrockiella crassicollis
+FMNH,,,224079,FMNH224079,Siebenrockiella crassicollis,Siebenrockiella crassicollis,NA,adult,,E. O. Moll,,,Asia,Malaysia,Trengganu,Besut,,"Sungei Kederang stream, 9 km W Penarik",,NA,NA,24-Jul-78,NA,Testis imbedded in paraffin.,,,,,,Siebenrockiella crassicollis
+FMNH,,,224083,FMNH224083,Cyclemys dentata,Cyclemys dentata,NA,adult,,E. O. Moll,,,Asia,Malaysia,Perak,Kinta,Batu Gajah,,market,NA,NA,22-Oct-75,NA,Ovaries in separate jar.,,,,,,Cyclemys dentata
+FMNH,,,224092,FMNH224092,Cyclemys dentata,Cyclemys dentata,NA,adult,,E. O. Moll,,,Asia,Malaysia,Perak,Kinta,Batu Gajah,,pet shop,NA,NA,19-Nov-75,NA,See FMNH 224139,,,,,,Cyclemys dentata
+FMNH,,,224095,FMNH224095,Batagur baska,Batagur baska,NA,adult,,E. O. Moll,,,Asia,Malaysia,,Telok Anson,Kampong Durian Sebatang,Bidor River,,NA,NA,09-Dec-75,NA,,,,,,,Batagur baska
+FMNH,,,224096,FMNH224096,Callagur borneoensis,Batagur borneoensis,NA,adult,,E. O. Moll,,,Asia,Malaysia,Perak,Kinta,Batu Gajah,,pet shop,NA,NA,08-Nov-75,NA,,,,,,,Batagur borneoensis
+FMNH,,,224097,FMNH224097,Batagur baska,Batagur baska,NA,adult,,E. O. Moll,,,Asia,Malaysia,,Telok Anson,Kampong Durian Sebatang,Bidor River,,NA,NA,09-Dec-75,NA,,,,,,,Batagur baska
+FMNH,,,224106,FMNH224106,Kachuga dhongoka,Batagur dhongoka,NA,adult,,E. O. Moll,,,Asia,India,Uttar Pradesh,,,"Hindon River, trib of Yumna, dear Delhi",,NA,NA,04-Mar-80,NA,,,,,,,Batagur dhongoka
+FMNH,,,224112,FMNH224112,Cuora amboinensis,Cuora amboinensis,NA,adult,,E. O. Moll,,,Asia,Malaysia,Perak,Batu 18,,Telok Anson to Bidor,,NA,NA,14-Nov-75,NA,,,,,,,Cuora amboinensis
+FMNH,,,224150,FMNH224150,Morenia petersi,Morenia petersi,NA,juvenile,,E. O. Moll,,,Asia,India,Bihar,,,"Udaipur Forest, Oxbow Lake, 15 km W Bettiah",,NA,NA,10-Jun-83,NA,S & P,,,,,,Morenia petersi
+FMNH,,,224152,FMNH224152,Kachuga kachuga,Batagur kachuga,NA,adult,,E. O. Moll,,,Asia,India,Uttar Pradesh,,, Bateshwar,"Yumuna River, 13 km N Bah",NA,NA,10-Apr-83,NA,,,,,,,Batagur kachuga
+FMNH,,,224153,FMNH224153,Hardella thurjii,Hardella thurjii,NA,adult,,E. O. Moll,,,Asia,India,Uttar Pradesh,,,"Gompti River, near Lucknow",,NA,NA,12-Jan-83,NA,,,,,,,Hardella thurjii
+FMNH,,,224185,FMNH224185,Kachuga tentoria,Pangshura tentoria,NA,adult,,E. O. Moll,,,Asia,India,Uttar Pradesh,,,"Gompti River, near Lucknow",,NA,NA,12-Jan-83,NA,,,,,,,Pangshura tentoria
+FMNH,,,224189,FMNH224189,Heosemys silvatica,Vijayachelys silvatica,NA,juvenile,,E. O. Moll,,,Asia,India,Kerala,Chalakudy,,vicinity of Anaipandam,,NA,NA,08-Jan-83,NA,Researcher obtained good DNA sequences from dried tissue of this specimen (2004-2005).,,,,,,Vijayachelys silvatica
+FMNH,,,224247,FMNH224247,Melanochelys trijuga,Melanochelys trijuga,NA,adult,,E. O. Moll,,,Asia,India,Andhra Pradesh: near Hyderabad,,,"Osman Sagar Reservoir Dam, overflow ponds",,NA,NA,27-Nov-82,NA,,,,,,,Melanochelys trijuga
+FMNH,,,224248,FMNH224248,Melanochelys trijuga,Melanochelys trijuga,NA,adult,,E. O. Moll,,,Asia,India,Tamil Nadu,,Madras,"Injambakkam, 10 km S Adyar",,NA,NA,02-Oct-82,NA,,,,,,,Melanochelys trijuga
+FMNH,,,251499,FMNH251499,Callagur borneoensis,Batagur borneoensis,NA,adult,,E. O. Moll,,,Asia,Malaysia,Selangor,,,"near Kuala Sungei Langat, Straits of Malacca, 7 km N Morib",,NA,NA,09-Dec-89,NA,,,,,,,Batagur borneoensis
+FMNH,,,259430,FMNH259430,Kachuga tentoria flaviventer,Pangshura tentoria flaviventer,NA,subadult,,J. W. Williams,,,Herps - No Locality Data,,,,,,,NA,NA,,NA,Animal dealer specimens from Bangladesh 1/8/93.,,,,,,Pangshura tentoria
+FMNH,,,259432,FMNH259432,Hieremys annandalii,Heosemys annandalii,NA,adult,,J. W. Williams,,,Herps - No Locality Data,,,,,,,NA,NA,,NA,,,,,,,Heosemys annandalii
+FMNH,,,259433,FMNH259433,Kachuga tentoria flaviventer,Pangshura tentoria flaviventer,NA,adult,,J. W. Williams,,,Herps - No Locality Data,,,,,,,NA,NA,,NA,Animal dealer specimens from Bangladesh 1/8/93.,,,,,,Pangshura tentoria
+FMNH,,,260377,FMNH260377,Morenia petersi,Morenia petersi,NA,adult,,J. W. Williams,,,Herps - No Locality Data,,,,,,,NA,NA,,NA,,,,,,,Morenia petersi
+FMNH,,,260381,FMNH260381,Geoemyda spengleri,Geoemyda spengleri,NA,adult,,J. W. Williams,,,Herps - No Locality Data,,,,,,,NA,NA,,NA,,,,,,,Geoemyda spengleri
+FMNH,,,260382,FMNH260382,Heosemys spinosa,Heosemys spinosa,NA,adult,,J. W. Williams,,,Herps - No Locality Data,,,,,,,NA,NA,08-Jan-87,NA,"From Ipohmarket, Perak, Malaysia.",,,,,,Heosemys spinosa
+FMNH,,,260384,FMNH260384,Kachuga smithii,Pangshura smithii,NA,adult,,J. W. Williams,,,Herps - No Locality Data,,,,,,,NA,NA,,NA,Animal dealer specimens from Bangladesh 1/8/93.,,,,,,Pangshura smithii
+FMNH,,,260385,FMNH260385,Notochelys platynota,Notochelys platynota,NA,adult,,J. W. Williams,,,Herps - No Locality Data,,,,,,,NA,NA,,NA,Malaysian animal dealer.,,,,,,Notochelys platynota
+FMNH,,,260386,FMNH260386,Kachuga tecta,Pangshura tecta,NA,adult,,E. O. Moll,,,Asia,India,Uttar Pradesh,,,"Kukrail, near Lucknow",,NA,NA,12-Jan-83,NA,,,,,,,Pangshura tecta
+FMNH,,,260444,FMNH260444,Kachuga smithii,Pangshura smithii,NA,adult,,J. W. Williams,,,Herps - No Locality Data,,,,,,,NA,NA,,NA,Animal dealer specimens from Bangladesh 1/8/93.,,,,,,Pangshura smithii
+FMNH,,,263052,FMNH263052,Hieremys annandalii,Heosemys annandalii,NA,adult,,"Steven G Platt, Long Kheng, Heng Sovannara",,,Asia,Cambodia,Siem Reap,Siem Reap,,a floating village near Choeng Khneas (on the lake south of Siem Reap),,NA,NA,04-Oct-00,NA,Carapace only.,,,,,,Heosemys annandalii
+FMNH,,,224099,FMNH224099,Batagur borneoensis,Batagur borneoensis,NA,adult,m,E. O. Moll,,,Asia,Malaya,Perak,,,,,,,,,,,,,,,
